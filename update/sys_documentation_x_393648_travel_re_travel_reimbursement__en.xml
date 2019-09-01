@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Travel_Reimbursement" language="en" table="x_393648_travel_re_travel_reimbursement">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Travel_Reimbursement</label>
+            <language>en</language>
+            <name>x_393648_travel_re_travel_reimbursement</name>
+            <plural>Travel_Reimbursements</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-17 19:51:24</sys_created_on>
+            <sys_id>68b012cedb9f7300b29c2fb748961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Travel_Reimbursement</sys_name>
+            <sys_package display_value="Travel_reimbursement_ex" source="x_393648_travel_re">02ff828adb9f7300b29c2fb7489619c4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Travel_reimbursement_ex">02ff828adb9f7300b29c2fb7489619c4</sys_scope>
+            <sys_update_name>sys_documentation_x_393648_travel_re_travel_reimbursement__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-17 19:51:24</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

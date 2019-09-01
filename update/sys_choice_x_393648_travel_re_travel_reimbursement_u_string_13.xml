@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_string_13" table="x_393648_travel_re_travel_reimbursement" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_13</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Economy Class</label>
+            <language>en</language>
+            <name>x_393648_travel_re_travel_reimbursement</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-31 20:26:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1eee122adb2f3300b29c2fb74896191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-31 20:26:09</sys_updated_on>
+            <value>economy class</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_13</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business class</label>
+            <language>en</language>
+            <name>x_393648_travel_re_travel_reimbursement</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-31 20:26:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9aee122adb2f3300b29c2fb74896191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-31 20:26:09</sys_updated_on>
+            <value>business class</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_13</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Class 1</label>
+            <language>en</language>
+            <name>x_393648_travel_re_travel_reimbursement</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-31 20:26:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56ee122adb2f3300b29c2fb74896191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-31 20:26:09</sys_updated_on>
+            <value>class 1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_13</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Class 2</label>
+            <language>en</language>
+            <name>x_393648_travel_re_travel_reimbursement</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-31 20:26:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>12ee122adb2f3300b29c2fb748961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-31 20:26:09</sys_updated_on>
+            <value>class 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_13</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Class 3</label>
+            <language>en</language>
+            <name>x_393648_travel_re_travel_reimbursement</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-31 20:26:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>daee122adb2f3300b29c2fb748961921</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-31 20:26:09</sys_updated_on>
+            <value>class 3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_13</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Luxury Seater</label>
+            <language>en</language>
+            <name>x_393648_travel_re_travel_reimbursement</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-31 20:26:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>96ee122adb2f3300b29c2fb748961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-31 20:26:09</sys_updated_on>
+            <value>luxury seater</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_13</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Semi Sleeper</label>
+            <language>en</language>
+            <name>x_393648_travel_re_travel_reimbursement</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-31 20:26:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52ee122adb2f3300b29c2fb748961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-31 20:26:09</sys_updated_on>
+            <value>semi sleeper</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_string_13</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Full Sleeper</label>
+            <language>en</language>
+            <name>x_393648_travel_re_travel_reimbursement</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-31 20:26:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1eee122adb2f3300b29c2fb748961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-31 20:26:09</sys_updated_on>
+            <value>full sleeper</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_string_13</element>
+            <name>x_393648_travel_re_travel_reimbursement</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-31 20:26:09</sys_created_on>
+            <sys_id>56ee122adb2f3300b29c2fb74896191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_string_13</sys_name>
+            <sys_package display_value="Travel_reimbursement_ex" source="x_393648_travel_re">02ff828adb9f7300b29c2fb7489619c4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Travel_reimbursement_ex">02ff828adb9f7300b29c2fb7489619c4</sys_scope>
+            <sys_update_name>sys_choice_x_393648_travel_re_travel_reimbursement_u_string_13</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-31 20:26:09</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
